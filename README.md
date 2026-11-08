@@ -1,6 +1,8 @@
 # Verdeyen Games
 
-The home page for our games: https://verdeyen-k.github.io/games/
+The home page for our games: https://verdeyengames.com/
+
+The old address, https://verdeyengames.com/games/, sends you to the home page (that's what `games/index.html` does).
 
 Each game lives in its own repo and is published with GitHub Pages under the same address, so this page just links to them:
 
