@@ -17,5 +17,6 @@ Each game lives in its own repo and is published with GitHub Pages under the sam
 - Shooter Forever: `/shooterforever/`
 - Tag Out: `/tagout/`
 - Chess: The Kingdom Expands: `/kingdomexpands/`
+- Murder Might: `/murdermight/`
 
 To add a game, publish its repo with GitHub Pages, then add a card for it in `index.html`.
